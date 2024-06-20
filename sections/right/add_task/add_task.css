@@ -1,0 +1,11 @@
+QWidget {
+    background-color: #202020;
+}
+
+QTabWidget::pane {
+    border: 0;
+}
+
+QTabBar::tab {
+    font-size: 15px;
+}

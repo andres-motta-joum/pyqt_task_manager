@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "tittle": "Tarea ejemplo 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit",
+        "state": "Pendiente"
+    },
+    {
+        "id": 1,
+        "tittle": "Tarea ejemplo 2",
+        "description": "Lorem ipsum dolor sit amet. Vel laborum rerum est alias aliquid in consectetur quod? Aut galisum cupiditate aut.",
+        "state": "Finalizado"
+    }
+]
